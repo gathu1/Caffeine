@@ -1,5 +1,6 @@
 import React from 'react';
 import Navbar from Navbar.jsx;
+import Footer from Footer.jsx;
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
         <p>
           Do you love coffee? If your answer is yes come over and try some of ours it is the best. 
         </p>
+        <Footer />
       </div>
     );
   }
