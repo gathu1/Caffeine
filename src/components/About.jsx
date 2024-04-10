@@ -1,6 +1,7 @@
 import React from 'react';
+import Navbar from './Navbar';
 
-function About() {
+function App() {
   return (
       <div style={{ backgroundColor: 'grey' }}>
         <h1>About Us</h1>
