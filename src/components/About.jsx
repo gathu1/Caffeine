@@ -4,6 +4,7 @@ import Navbar from Navbar.jsx;
 function App() {
   return (
       <div style={{ backgroundColor: 'grey' }}>
+        <Navbar/>
         <h1>About Us</h1>
         <p>
           Welcome to our website! We are dedicated to providing high-quality products and excellent services to our customers. Our team is passionate about what we do, and we strive to exceed your expectations.
