@@ -1,26 +1,30 @@
 
 function About() {
   return (
-      <div style={{ backgroundColor: 'grey', backgroundImage: 'url(/src/Images.jpg)', backgroundSize: 'cover' }}>
+      <div style={{ backgroundColor: 'grey', backgroundImage: 'url(/src/Imag.jpg)', backgroundSize: 'cover' }}>
 
-        <h1 style={{ fontSize: '2.5rem', textAlign: "center", fontWeight: 'bold' }}>About Us</h1>
-        <ul style={{ fontSize: '1.1rem', listStyleType: 'disc', paddingLeft: '1.5rem', lineHeight: '2rem' }}>
+        <h1 style={{ fontSize: '2.3rem', textAlign: "center", fontWeight: 'bold' }}>About Us</h1>
+        <ul style={{ fontSize: '1.0rem', listStyleType: 'disc', paddingLeft: '1.5rem', lineHeight: '2rem' }}>
         <li>
           Welcome to our website! We are dedicated to providing high-quality products and excellent services to our customers. Our team is passionate about what we do, and we strive to exceed your expectations.
         </li>
+        <br/>
         <li>
           At caffeine, we're passionate about bringing you the finest coffees from around the world, carefully curated to delight your senses with every sip.
           From rich single-origin beans to artisanal blends and indulgent specialty drinks, there's something for every coffee lover to enjoy.
           
         </li>
+        <br/>
         <li>
           If you are in the mood to try something tasty then Caffeine Coffee shop is the place to be.
           
         </li>
+        <br />
         <li>
           <strong>Do you love coffee?</strong> If your answer is yes come over and try some of ours it is the best. 
           
         </li>
+        <br />
         <li>
         We recognize the immense effort and dedication of coffee farmers who work tirelessly to cultivate the perfect beans. As such, 
         we are committed to ensuring that they receive fair compensation for their labor and expertise. By engaging in direct trade relationships with coffee farmers and cooperatives, 
